@@ -1,2 +1,0 @@
-# NextJsLearn
-Learning Next JS
